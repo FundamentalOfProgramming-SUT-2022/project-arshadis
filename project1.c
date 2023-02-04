@@ -9,7 +9,7 @@
 #include <string.h>
 char c, adress[] = {"C:\\Users\\ArShAdI\\Desktop\\projet"};
 const char backeslash[] = {"\\"};
-char c1[1000], c2[1000], c4[1000];
+char  c2[1000], c4[1000],c1[1000];
 int x, y, z, zz = 0;
 // z in getcharacter
 void ADRES();
